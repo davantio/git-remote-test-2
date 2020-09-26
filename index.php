@@ -8,6 +8,9 @@
 <body>
 
     <h1>Coba Git Remote ke-2</h1>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus quasi doloremque modi quas animi fugiat molestiae nam voluptas nostrum, maxime nesciunt obcaecati saepe provident quis laborum voluptatibus a. Qui, cupiditate!
+    </p>
 
 </body>
 </html>
